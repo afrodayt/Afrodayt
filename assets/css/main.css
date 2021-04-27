@@ -1,0 +1,17 @@
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav__arrow div + div {
+  margin-top: 17px;
+}
+
+.nav__lang {
+  display: flex;
+}
+
+/*# sourceMappingURL=main.css.map */
